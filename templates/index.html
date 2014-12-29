@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>Trending Topics Analysis</title>
+		<meta name="Dashboard" content="NUS-ISS" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link href="{{STATIC_URL}}css/bootstrap.min.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="{{STATIC_URL}}js/html5.js"></script>
+		<![endif]-->
+		<link href="{{STATIC_URL}}css/styles.css" rel="stylesheet">
+	</head>
+	<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Dailymotion - Trending Topics Analysis</a>
+        </div>
+      </div>
+</nav>
+
+<div class="container-fluid">
+      
+      <div class="row row-offcanvas row-offcanvas-left">
+        
+         <div class="col-sm-3 col-md-2 sidebar-offcanvas" id="sidebar" role="navigation">
+           
+            <ul class="nav nav-sidebar">
+              <li class="active"><a href="{{STATIC_URL}}index.html">Dashboard</a></li>
+              <li><a href="#">Common</a></li>
+              <li><a href="#">Sports</a></li>
+              <li><a href="#">News</a></li>
+              <li><a href="#">Movies</a></li>
+              <li><a href="#">TV COMEDY & ENTERTAINMENT</a></li>
+              <li><a href="#">CELEB</a></li>
+            </ul>
+          
+        </div><!--/span-->
+        
+        <div class="col-sm-9 col-md-10 main">
+          
+          <!--toggle sidebar button-->
+		  <h1 class="page-header">
+            Trends - INDIA
+          </h1>
+          <div class="row placeholders">
+            <div class="col-xs-6 col-sm-3 placeholder text-center">
+            <div class="panel panel-primary">
+  		<div class="panel-heading">Today</div>
+  		<div class="panel-body">
+      <div class="list-group">
+        {% block content %}
+            {% for name in trends_today %}
+                <a href="#" class="list-group-item">
+                {{ name }}
+                </a>
+            {% endfor %}
+        {% endblock %}
+      </div>
+            </div>
+                </div>
+
+
+            </div>
+            <div class="col-xs-6 col-sm-3 placeholder text-center">
+            <div class="panel panel-primary">
+  		<div class="panel-heading">1 Day Ago</div>
+  		<div class="panel-body">
+      <div class="list-group">
+        <a href="#" class="list-group-item">
+            #ABCD
+        </a>
+        <a href="#" class="list-group-item">Dapibus ac facilisis in
+        </a>
+        <a href="#" class="list-group-item">Morbi leo risus
+        </a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac
+        </a>
+        <a href="#" class="list-group-item">Vestibulum at eros
+        </a>
+          <a href="#" class="list-group-item">Dapibus ac facilisis in
+        </a>
+        <a href="#" class="list-group-item">Morbi leo risus
+        </a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac
+        </a>
+        <a href="#" class="list-group-item">Vestibulum at eros
+        </a>
+          <a href="#" class="list-group-item">Dapibus ac facilisis in
+        </a>
+        <a href="#" class="list-group-item">Morbi leo risus
+        </a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac
+        </a>
+        <a href="#" class="list-group-item">Vestibulum at eros
+        </a>
+      </div>
+            </div>
+                </div>
+
+
+            </div>
+            <div class="col-xs-6 col-sm-3 placeholder text-center">
+            <div class="panel panel-primary">
+  		<div class="panel-heading">2 Days Ago</div>
+  		<div class="panel-body">
+      <div class="list-group">
+        <a href="#" class="list-group-item">
+            #ABCD
+        </a>
+        <a href="#" class="list-group-item">Dapibus ac facilisis in
+        </a>
+        <a href="#" class="list-group-item">Morbi leo risus
+        </a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac
+        </a>
+        <a href="#" class="list-group-item">Vestibulum at eros
+        </a>
+          <a href="#" class="list-group-item">Dapibus ac facilisis in
+        </a>
+        <a href="#" class="list-group-item">Morbi leo risus
+        </a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac
+        </a>
+        <a href="#" class="list-group-item">Vestibulum at eros
+        </a>
+          <a href="#" class="list-group-item">Dapibus ac facilisis in
+        </a>
+        <a href="#" class="list-group-item">Morbi leo risus
+        </a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac
+        </a>
+        <a href="#" class="list-group-item">Vestibulum at eros
+        </a>
+      </div>
+            </div>
+                </div>
+
+
+            </div>
+            <div class="col-xs-6 col-sm-3 placeholder text-center">
+            <div class="panel panel-primary">
+  		<div class="panel-heading">3 Days Ago</div>
+  		<div class="panel-body">
+      <div class="list-group">
+        <a href="#" class="list-group-item">
+            #ABCD
+        </a>
+        <a href="#" class="list-group-item">Dapibus ac facilisis in
+        </a>
+        <a href="#" class="list-group-item">Morbi leo risus
+        </a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac
+        </a>
+        <a href="#" class="list-group-item">Vestibulum at eros
+        </a>
+          <a href="#" class="list-group-item">Dapibus ac facilisis in
+        </a>
+        <a href="#" class="list-group-item">Morbi leo risus
+        </a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac
+        </a>
+        <a href="#" class="list-group-item">Vestibulum at eros
+        </a>
+          <a href="#" class="list-group-item">Dapibus ac facilisis in
+        </a>
+        <a href="#" class="list-group-item">Morbi leo risus
+        </a>
+        <a href="#" class="list-group-item">Porta ac consectetur ac
+        </a>
+        <a href="#" class="list-group-item">Vestibulum at eros
+        </a>
+      </div>
+            </div>
+                </div>
+
+
+            </div>
+          </div>
+          
+          <hr>
+
+          <h2 class="sub-header">Basic Table For -- ABCD# </h2>
+          <div class="table-responsive">
+            <table class="table table-bordered table-striped table-hover">
+              <thead>
+                <tr>
+                  <th>Technical ID</th>
+                  <th>Trend Score</th>
+                  <th>Created Date</th>
+                  <th>Updated Date</th>
+                  <th>Title</th>
+                  <th>Description</th>
+                  <th>Language</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>10001</td>
+                  <td>8.2</td>
+                  <td>20/12/2014</td>
+                  <td>22/12/2014</td>
+                  <td>ABCD</td>
+                  <td>ABCD is an example for the layout</td>
+                  <td>English</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <h2 class="sub-header">Temporality For -- ABCD# </h2>
+          <div class="table-responsive">
+            <table class="table table-bordered table-striped table-hover">
+              <thead>
+                <tr>
+                  <th>Technical ID Technical ID--{{ data }}</th>
+                  <th>Region</th>
+                  <th>Temporality</th>
+                  <th>Sex</th>
+                  <th>Age</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>10001</td>
+                  <td>India</td>
+                  <td><a href="#"> Short Term </a></td>
+                  <td>Male--20%  Female--60% Unknown--20%</td>
+                  <td>30-45</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+         <h2 class="sub-header">Related Trends For -- ABCD# </h2>
+          <div class="table-responsive">
+            <table class="table table-bordered table-striped table-hover">
+              <thead>
+                <tr>
+                  <th>Technical ID</th>
+                  <th>Related Trends ID</th>
+                  <th>External Links</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>10001</td>
+                  <td> <a href="{{STATIC_URL}}abcd.com">102822</a>
+                  <a href="#">103499</a>
+                  </td>
+                  <td><a href="#">www.abcd.com</a>
+                  <a href="#">www.ahsg.com</a></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+      </div><!--/row-->
+	</div>
+</div><!--/.container-->
+
+<footer>
+  <p class="pull-right">©2014 Company</p>
+</footer>
+        
+	<!-- script references -->
+		<script src="{{STATIC_URL}}js/jquery.min.js"></script>
+		<script src="{{STATIC_URL}}js/bootstrap.min.js"></script>
+		<script src="{{STATIC_URL}}js/scripts.js"></script>
+	</body>
+</html>
