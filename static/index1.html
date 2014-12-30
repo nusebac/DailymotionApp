@@ -59,7 +59,7 @@
       <div class="list-group">
         {% block content %}
             {% for name in trends_today %}
-                <a href="{% url "query" name %}" class="list-group-item">
+                <a href="{% url "data" name %}" class="list-group-item">
                 {{ name }}
                 </a>
             {% endfor %}
@@ -121,7 +121,7 @@
           
           <hr>
 
-          <h2 class="sub-header">Basic -- {{ trends_today.0 }} </h2>
+          <h2 class="sub-header">Basic Table For -- {{ trends_today.0 }} </h2>
           <div class="table-responsive">
             <table class="table table-bordered table-striped table-hover">
               <thead>
@@ -149,7 +149,7 @@
             </table>
           </div>
 
-          <h2 class="sub-header">Temporality -- {{ trends_today.0 }} </h2>
+          <h2 class="sub-header">Temporality For -- {{ trends_today.0 }} </h2>
           <div class="table-responsive">
             <table class="table table-bordered table-striped table-hover">
               <thead>
@@ -173,7 +173,7 @@
             </table>
           </div>
 
-         <h2 class="sub-header">Related Trends --{{ trends_today.0 }}</h2>
+         <h2 class="sub-header">Related Trends For --{{ trends_today.0 }}</h2>
           <div class="table-responsive">
             <table class="table table-bordered table-striped table-hover">
               <thead>
