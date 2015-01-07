@@ -74,11 +74,11 @@ def home(request):
     test = random.sample(test_today, 10)
     test1 = random.sample(test_next, 10)
     test2 = random.sample(test_two, 10)
-    #test3 = random.sample(test_three, 10)
+    test3 = random.sample(test_three, 10)
     cursor.execute("SELECT * FROM trends_all WHERE Trend_Name=%s",(test[0]))
     new = cursor.fetchone()
     #content = {trend_name}
-    content = Context({"Data": new,'Tech_ID': tech_id,'trends_today': test,'trends_next': test1,'trends_two': test2,'trends_three': test_three, "trend_desc":trend_desc,"trend_lang": trend_lang,"Created_Date": trend_create,"Updated_Date": trend_update,"trend_score": trend_score,"trend_temporality": trend_temporality,"trend_Sex": trend_sex,"trend_age": trend_age,"trend_region": trend_region,"trend_related": trend_related,"trend_external": trend_external,"trend_source": trend_source,"trend_topic": trend_topic})
+    content = Context({"Data": new,'Tech_ID': tech_id,'trends_today': test,'trends_next': test1,'trends_two': test2,'trends_three': test3, "trend_desc":trend_desc,"trend_lang": trend_lang,"Created_Date": trend_create,"Updated_Date": trend_update,"trend_score": trend_score,"trend_temporality": trend_temporality,"trend_Sex": trend_sex,"trend_age": trend_age,"trend_region": trend_region,"trend_related": trend_related,"trend_external": trend_external,"trend_source": trend_source,"trend_topic": trend_topic})
     return render(request,template,content)
 
 
