@@ -32,6 +32,8 @@ conn = MySQLdb.connect(host = "localhost",user = "NUSISS",passwd = "password",db
 cursor = conn.cursor()
 cursor.execute("SELECT * FROM trends_all")
 rows = cursor.fetchall()
+cursor.execute("SELECT * FROM trends_same")
+similarity = cursor.fetchall()
 
 def home(request):
     for data in rows:
@@ -77,8 +79,10 @@ def home(request):
     test3 = random.sample(test_three, 10)
     cursor.execute("SELECT * FROM trends_all WHERE Trend_Name=%s",(test[0]))
     new = cursor.fetchone()
+    cursor.execute("SELECT * FROM trends_similar WHERE TECHNICAL_ID=%s",(new[0]))
+    similars = cursor.fetchall()
     #content = {trend_name}
-    content = Context({"Data": new,'Tech_ID': tech_id,'trends_today': test,'trends_next': test1,'trends_two': test2,'trends_three': test3, "trend_desc":trend_desc,"trend_lang": trend_lang,"Created_Date": trend_create,"Updated_Date": trend_update,"trend_score": trend_score,"trend_temporality": trend_temporality,"trend_Sex": trend_sex,"trend_age": trend_age,"trend_region": trend_region,"trend_related": trend_related,"trend_external": trend_external,"trend_source": trend_source,"trend_topic": trend_topic})
+    content = Context({"Data": new,"Similar": similars,'Tech_ID': tech_id,'trends_today': test,'trends_next': test1,'trends_two': test2,'trends_three': test3, "trend_desc":trend_desc,"trend_lang": trend_lang,"Created_Date": trend_create,"Updated_Date": trend_update,"trend_score": trend_score,"trend_temporality": trend_temporality,"trend_Sex": trend_sex,"trend_age": trend_age,"trend_region": trend_region,"trend_related": trend_related,"trend_external": trend_external,"trend_source": trend_source,"trend_topic": trend_topic})
     return render(request,template,content)
 
 
@@ -103,9 +107,16 @@ def common(request):
         trend_external.append(data[14])
         trend_source.append(data[15])
         trend_topic.append(data[16])
-    content = Context({"Data": rows,'Tech_ID': tech_id,'trend_name': trend_name, "trend_desc":trend_desc,"trend_lang": trend_lang,"Created_Date": trend_create,"Updated_Date": trend_update,"trend_score": trend_score,"trend_temporality": trend_temporality,"trend_Sex": trend_sex,"trend_age": trend_age,"trend_region": trend_region,"trend_related": trend_related,"trend_external": trend_external,"trend_source": trend_source,"trend_topic": trend_topic})
+
+    content = Context({"Data": similarity,'Tech_ID': tech_id,'trend_name': trend_name, "trend_desc":trend_desc,"trend_lang": trend_lang,"Created_Date": trend_create,"Updated_Date": trend_update,"trend_score": trend_score,"trend_temporality": trend_temporality,"trend_Sex": trend_sex,"trend_age": trend_age,"trend_region": trend_region,"trend_related": trend_related,"trend_external": trend_external,"trend_source": trend_source,"trend_topic": trend_topic})
     template = "common.html"
     return render(request,template,content)
+
+def charts(request):
+    content={}
+    template = "charts.html"
+    return render(request,template,content)
+
 
 def query(request, value):
     content = Context({"Data": value})

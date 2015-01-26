@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>Trending Topics Analysis</title>
+		<meta name="Dashboard" content="NUS-ISS" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link href="{{STATIC_URL}}plugins/bootstrap/bootstrap.css" rel="stylesheet">
+		<link href="{{STATIC_URL}}plugins/jquery-ui/jquery-ui.min.css" rel="stylesheet">
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href='http://fonts.googleapis.com/css?family=Righteous' rel='stylesheet' type='text/css'>
+		<link href="{{STATIC_URL}}plugins/fancybox/jquery.fancybox.css" rel="stylesheet">
+		<link href="{{STATIC_URL}}plugins/fullcalendar/fullcalendar.css" rel="stylesheet">
+		<link href="{{STATIC_URL}}plugins/xcharts/xcharts.min.css" rel="stylesheet">
+		<link href="{{STATIC_URL}}plugins/select2/select2.css" rel="stylesheet">
+		<link href="{{STATIC_URL}}plugins/justified-gallery/justifiedGallery.css" rel="stylesheet">
+		<link href="{{STATIC_URL}}css/style_v2.css" rel="stylesheet">
+        <link href="{{STATIC_URL}}css/style-3.0.15.e.css" rel="stylesheet">
+		<link href="{{STATIC_URL}}plugins/chartist/chartist.min.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="{{STATIC_URL}}js/html5.js"></script>
+
+		<![endif]-->
+		<link href="{{STATIC_URL}}css/styles.css" rel="stylesheet">
+        <!-- script references -->
+		<script src="{{STATIC_URL}}plugins/jquery/jquery.min.js"></script>
+<script src="{{STATIC_URL}}plugins/jquery-ui/jquery-ui.min.js"></script>
+        <script src="{{STATIC_URL}}plugins/d3/d3.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="{{STATIC_URL}}plugins/bootstrap/bootstrap.min.js"></script>
+<script src="{{STATIC_URL}}plugins/justified-gallery/jquery.justifiedGallery.min.js"></script>
+<script src="{{STATIC_URL}}plugins/tinymce/tinymce.min.js"></script>
+<script src="{{STATIC_URL}}plugins/tinymce/jquery.tinymce.min.js"></script>
+        <script src="{{STATIC_URL}}js/devoops.js"></script>
+
+<script type="text/javascript">
+// Draw all test xCharts
+function DrawAllxCharts(){
+	xGraph1();
+	xGraph2();
+	xGraph3();
+}
+$(document).ready(function() {
+	// Load required scripts and callback to draw
+	LoadXChartScript(DrawAllxCharts);
+	// Required for correctly resize charts, when boxes expand
+	var graphxChartsResize;
+	$(".box").resize(function(event){
+		event.preventDefault();
+		clearTimeout(graphxChartsResize);
+		graphxChartsResize = setTimeout(DrawAllxCharts, 500);
+	});
+	WinMove();
+});
+</script>
+</head>
+	<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Dailymotion - Trending Topics Analysis</a>
+        </div>
+      </div>
+</nav>
+
+<div class="container-fluid">
+
+      <div class="row row-offcanvas row-offcanvas-left">
+
+         <div class="col-sm-3 col-md-2 sidebar-offcanvas" id="sidebar" role="navigation">
+
+           <ul class="nav nav-sidebar">
+              <li><a href="/">Dashboard</a></li>
+              <li ><a href="/common">Common</a></li>
+              <li><a href="#">Sports</a></li>
+              <li><a href="#">News</a></li>
+              <li><a href="#">Movies</a></li>
+              <li><a href="#">TV COMEDY & ENTERTAINMENT</a></li>
+              <li><a href="#">CELEB</a></li>
+            </ul>
+
+        </div><!--/span-->
+
+        <div class="col-sm-9 col-md-10 main">
+
+          <!--toggle sidebar button-->
+		  <h1 class="page-header">
+            Temporality
+          </h1>
+
+      <div class="row">
+	<div class="col-xs-12">
+		<div class="box">
+			<div class="box-header">
+				<div class="box-name">
+					<i class="fa fa-search"></i>
+					<span>Trend Name - </span>
+				</div>
+				<div class="box-icons">
+					<a class="collapse-link">
+						<i class="fa fa-chevron-up"></i>
+					</a>
+					<a class="expand-link">
+						<i class="fa fa-expand"></i>
+					</a>
+					<a class="close-link">
+						<i class="fa fa-times"></i>
+					</a>
+				</div>
+				<div class="no-move"></div>
+			</div>
+			<div class="box-content">
+				<div id="xchart-3" style="height: 200px;"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+      </div><!--/row-->
+	</div>
+</div><!--/.container-->
+<footer>
+  <p class="pull-right">©2014 Company</p>
+</footer>
+
+
+	</body>
+</html>

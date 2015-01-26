@@ -133,6 +133,7 @@
                   <th>Title</th>
                   <th>Description</th>
                   <th>Language</th>
+                  <th>Trend Source</th>
                 </tr>
               </thead>
               <tbody>
@@ -144,6 +145,7 @@
                         <td>{{ Data.1 }}</td>
                         <td>{{ Data.2 }}</td>
                         <td>{{ Data.3 }}</td>
+                        <td>{{ Data.15 }}</td>
                 </tr>
               </tbody>
             </table>
@@ -165,7 +167,7 @@
                 <tr>
                   <td>{{ Data.0 }}</td>
                   <td>{{ Data.12 }}</td>
-                  <td><a href="#"> {{ Data.9 }} </a></td>
+                  <td><a href="charts"> {{ Data.9 }} </a></td>
                   <td>{{ Data.10 }}</td>
                   <td>{{ Data.11 }}</td>
                 </tr>
@@ -179,15 +181,17 @@
               <thead>
                 <tr>
                   <th>Technical ID</th>
-                  <th>Related Trends ID</th>
+                  <th>Similar Trends ID</th>
                   <th>External Links</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>{{ Data.0 }}</td>
-                  <td> <a href="{{STATIC_URL}}abcd.com">102822</a>
-                  <a href="#">103499</a>
+                  <td>
+                  {% for similars in Similar %}
+                  <a href="{% url "query" similars.1 %}">{{ similars.1 }}</a>
+                  {% endfor %}
                   </td>
                   <td><a href="{{ Data.14 }}">{{ Data.14 }}</a>
                   </td>
@@ -195,7 +199,6 @@
               </tbody>
             </table>
           </div>
-
       </div><!--/row-->
 	</div>
 </div><!--/.container-->
