@@ -10,14 +10,14 @@
 	<!-- script references -->
         <link href="{{STATIC_URL}}css/bootstrap.min.css" rel="stylesheet">
         <link href="{{STATIC_URL}}css/styles.css" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
-		<link rel="stylesheet" type="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/bootstrap1.min.css">
+		<link rel="stylesheet" type="{{STATIC_URL}}css/dataTables.bootstrap.css">
         <script src="{{STATIC_URL}}js/jquery.min.js"></script>
 		<script src="{{STATIC_URL}}js/bootstrap.min.js"></script>
 		<script src="{{STATIC_URL}}js/scripts.js"></script>
-		<script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-		<script type="text/javascript" language="javascript" src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
-		<script type="text/javascript" language="javascript" src="http://cdn.datatables.net/plug-ins/3cfcc339e89/integration/bootstrap/3/dataTables.bootstrap.js"></script>
+		<script type="text/javascript" language="javascript" src="{{STATIC_URL}}js/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" language="javascript" src="{{STATIC_URL}}js/jquery.dataTables.min.js"></script>
+		<script type="text/javascript" language="javascript" src="{{STATIC_URL}}js/dataTables.bootstrap.js"></script>
 		<script type="text/javascript" charset="utf-8">
 			$(document).ready(function() {
 				$('#example').dataTable();
@@ -98,7 +98,7 @@
     </thead>
     <tbody>
     {% for data in Data %}
-    <tr><td>{{ data.0 }}</td><td>{{ data.12 }}</td><td><a href="/charts">{{ data.9 }}</a></td><td>{{ data.10 }}</td><td>{{ data.11 }}</td></tr>
+    <tr><td>{{ data.0 }}</td><td>{{ data.12 }}</td><td>{{ data.9 }}</td><td>{{ data.10 }}</td><td>{{ data.11 }}</td></tr>
     {% endfor %}
    </tbody>
 </table>
@@ -133,8 +133,6 @@
 		.removeClass( 'display' )
 		.addClass('table table-striped table-bordered');
 </script>
-
-
       </div><!--/row-->
 	</div>
 </div><!--/.container-->

@@ -1,617 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8cc1d1d-7cca-4d50-8d90-8fa652faf37b" name="Default" comment="Dailymotion App Updated Changes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/img/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/bgSky.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/bicycle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/board.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/car.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/datatables/copy_csv_xls_pdf.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/dragIcon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/dragIconBlack.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/dragIconH.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/dragIconHBlack.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/edit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/export.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/exportWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/helpers/fancybox_buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/fancybox_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/fancybox_loading@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/fancybox_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/fancybox_sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/leaflet/images/layers-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/leaflet/images/layers.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/lens.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/lensWhite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/img/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/leaflet/images/marker-icon-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/leaflet/images/marker-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/leaflet/images/marker-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/motorcycle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/media/moxieplayer.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/img/object.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/chalk/pattern1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/chalk/pattern1r.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/chalk/pattern2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/chalk/pattern3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/chalk/pattern4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/chalk/pattern5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/chalk/pattern6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/black/pattern9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/patterns/white/pattern9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/processing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/redstar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2-spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2x2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-cool.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-cry.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-embarassed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-frown.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-innocent.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-kiss.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-laughing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-sealed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-surprised.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-undecided.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-wink.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/img/smiley-yell.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/images/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce-small.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce-small.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce-small.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-bg_flat_10_000000_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-icons_228ef1_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-icons_ef8c08_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-icons_ffd27a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/flot/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/chartist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/d3/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jQuery-Knob/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/moment/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/springy/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/xcharts/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/justified-gallery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/xcharts/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/datatables/TableTools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/datatables/TableTools_orig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/datatables/ZeroClipboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/amcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/exporting/amexport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/ar-ma.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/ar-sa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/ar_MA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/be_FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/be_NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/bg_BG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/themes/black.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrap/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrap/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrap/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrap/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrap/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrap/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrap/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrap/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/bootstrapValidator.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/bootstrapValidator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/bootstrapValidator.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/bootstrapValidator.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/exporting/canvg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/themes/chalk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/chartist/chartist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/chartist/chartist.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/chartist/chartist.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/chartist/chartist.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/charts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/content.inline.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/content.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/cs_CZ.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/d3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/d3/d3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/d3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/d3/d3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/da_DK.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/themes/dark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/datatables/dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/de-at.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/de_DE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/devoops.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/example/dialog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/en-au.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/en-gb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/en_US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/es_CL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/es_ES.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/fa_IR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/exporting/filesaver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/fineuploader-5.0.5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/fineuploader-5.0.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/fineuploader-5.0.5.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/fineuploader-5.0.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/fr_FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/fullcalendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/fullcalendar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/fullcalendar.print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/funnel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/gauge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/gcal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/gr_EL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/hu_HU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/iframe.xss.response-5.0.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/it_IT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/ja_JP.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery-ui-i18n.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/jquery-ui-sliderAccess.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-addon-i18n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-addon-i18n.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/jquery-ui-timepicker-addon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/jquery-ui-timepicker-addon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/jquery-ui-timepicker-addon.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/jquery-ui-timepicker-addon.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-am.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-sr-RS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-sr-YU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui-timepicker-addon/i18n/jquery-ui-timepicker-zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/jquery-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/datatables/jquery.dataTables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/datatables/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/helpers/jquery.fancybox-buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/helpers/jquery.fancybox-buttons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/helpers/jquery.fancybox-media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/helpers/jquery.fancybox-thumbs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/helpers/jquery.fancybox-thumbs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/jquery.fancybox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/jquery.fancybox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fancybox/jquery.fancybox.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/jquery.fineuploader-5.0.5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fineuploader/jquery.fineuploader-5.0.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/flot/jquery.flot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/flot/jquery.flot.resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/flot/jquery.flot.time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/justified-gallery/jquery.justifiedGallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/justified-gallery/jquery.justifiedGallery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jQuery-Knob/jquery.knob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jQuery-Knob/jquery.knob.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/sparkline/jquery.sparkline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/sparkline/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/jquery.tinymce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-af.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ar-DZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-az.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-be.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-bg.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-bs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ca.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-cs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-cy-GB.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-da.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-de.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-el.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-en-AU.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-en-GB.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-en-NZ.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-eo.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-es.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-et.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-eu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-fa.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-fi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-fo.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-fr-CA.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-fr-CH.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-fr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-gl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-he.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-hi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-hr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-hu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-hy.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-id.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-is.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-it.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ja.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ka.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-kk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-km.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ko.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ky.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-lb.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-lt.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-lv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-mk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ml.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ms.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-nb.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-nl-BE.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-nl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-nn.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-no.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-pl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-pt-BR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-pt.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-rm.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ro.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ru.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-sk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-sl.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-sq.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-sr-SR.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-sr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-sv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-ta.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-th.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-tj.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-tr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-uk.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-vi.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-zh-CN.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-zh-HK.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/jquery-ui/i18n/jquery.ui.datepicker-zh-TW.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/exporting/jspdf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/exporting/jspdf.plugin.addimage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/justified-gallery/justifiedGallery.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/justified-gallery/justifiedGallery.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang-all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/leaflet/leaflet-src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/leaflet/leaflet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/leaflet/leaflet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/themes/light.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/mn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/moment/moment-with-locales.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/moment/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/morris/morris.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/morris/morris.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/mt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/nl_NL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/no_NO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/themes/patterns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/pl_PL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/advlist/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/anchor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/autolink/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/autoresize/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/autosave/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/bbcode/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/charmap/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/code/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/colorpicker/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/contextmenu/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/directionality/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/emoticons/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/example/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/example_dependency/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/fullpage/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/fullscreen/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/hr/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/image/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/importcss/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/insertdatetime/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/layer/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/legacyoutput/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/link/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/lists/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/media/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/nonbreaking/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/noneditable/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/pagebreak/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/paste/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/preview/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/print/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/save/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/searchreplace/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/spellchecker/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/tabfocus/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/table/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/template/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/textcolor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/textpattern/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/visualblocks/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/visualchars/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/wordcount/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/pt_BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/radar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/raphael/raphael-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/raphael/raphael.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/langs/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/release.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/exporting/rgbcolor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/ro_RO.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/ru_RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/rw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2-bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_en.js.template" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ka.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_pt-PT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_rs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_ug-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/select2/select2_locale_zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/serial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/skin.ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/skin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/so.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/springy/springy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/springy/springyui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/sr-cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/sr_RS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/style-3.0.15.e.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/style_v1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/style_v2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/sv_SE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/th_TH.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/themes/modern/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce-small.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce-small.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/tinymce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/skins/lightgray/fonts/tinymce.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/tr_TR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/ua_UA.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/vi_VN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/tinymce/plugins/visualblocks/css/visualblocks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/xcharts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/xcharts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/xcharts/xcharts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/xcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/xcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/xcharts/xcharts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/xcharts.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/xcharts.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/xcharts/xcharts.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/xcharts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/xcharts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/xcharts/xcharts.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/amcharts/xy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/fullcalendar/lang/zh-tw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/zh_CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/plugins/bootstrapvalidator/language/zh_TW.js" />
+    <list default="true" id="e8cc1d1d-7cca-4d50-8d90-8fa652faf37b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/bootstrap1.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/css/dataTables.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/dataTables.bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/js/jquery.dataTables.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/Common.html" afterPath="$PROJECT_DIR$/static/Common.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/Common.html" afterPath="$PROJECT_DIR$/templates/Common.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/templates/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/templates/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/dataTables.bootstrap.css" afterPath="$PROJECT_DIR$/static/css/dataTables.bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/index.html" afterPath="$PROJECT_DIR$/static/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/js/jquery.min.js" afterPath="$PROJECT_DIR$/templates/js/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DailymotionApp/urls.py" afterPath="$PROJECT_DIR$/DailymotionApp/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.dataTables.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.dataTables.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dashboard/views.py" afterPath="$PROJECT_DIR$/Dashboard/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\DailymotionApp\static\index1.html" afterPath="$PROJECT_DIR$/static/charts.html" />
     </list>
     <ignored path="DailymotionApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -634,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Common.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Common.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/Common.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0031056" vertical-offset="1649" max-vertical-offset="2584">
-              <caret line="116" column="6" selection-start-line="116" selection-start-column="6" selection-end-line="116" selection-end-column="6" />
+            <state vertical-scroll-proportion="-2.5769231" vertical-offset="1531" max-vertical-offset="2550">
+              <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -647,28 +50,28 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.3076925" vertical-offset="3152" max-vertical-offset="3740">
-              <caret line="192" column="46" selection-start-line="192" selection-start-column="46" selection-end-line="192" selection-end-column="46" />
+            <state vertical-scroll-proportion="-0.65384614" vertical-offset="1785" max-vertical-offset="3723">
+              <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dashboard/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1448" max-vertical-offset="2142">
-              <caret line="110" column="41" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.68591225" vertical-offset="1318" max-vertical-offset="1819">
+              <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
               <folding>
-                <marker date="1422262970290" expanded="true" signature="612:636" placeholder="SELECT * FRO..trends_all..." />
-                <marker date="1422262970290" expanded="true" signature="680:701" placeholder="SELECT * FRO..trends_similar..." />
-                <marker date="1422262970290" expanded="true" signature="680:705" placeholder="SELECT * FRO..trends_same..." />
-                <marker date="1422262970290" expanded="true" signature="1422:1487" placeholder="SELECT * FRO..." />
-                <marker date="1422262970290" expanded="true" signature="1610:1701" placeholder="SELECT * FRO..." />
-                <marker date="1422262970290" expanded="true" signature="1825:1916" placeholder="SELECT * FRO..." />
-                <marker date="1422262970290" expanded="true" signature="2038:2129" placeholder="SELECT * FRO..." />
-                <marker date="1422262970290" expanded="true" signature="2453:2495" placeholder="SELECT * FRO..trends_all..." />
-                <marker date="1422262970290" expanded="true" signature="2558:2606" placeholder="SELECT * FRO..trends_similar..." />
+                <marker date="1422861655181" expanded="true" signature="612:636" placeholder="SELECT * FRO..trends_all..." />
+                <marker date="1422861655181" expanded="true" signature="680:701" placeholder="SELECT * FRO..trends_similar..." />
+                <marker date="1422861655181" expanded="true" signature="680:705" placeholder="SELECT * FRO..trends_same..." />
+                <marker date="1422861655181" expanded="true" signature="1422:1487" placeholder="SELECT * FRO..." />
+                <marker date="1422861655181" expanded="true" signature="1610:1701" placeholder="SELECT * FRO..." />
+                <marker date="1422861655181" expanded="true" signature="1825:1916" placeholder="SELECT * FRO..." />
+                <marker date="1422861655181" expanded="true" signature="2038:2129" placeholder="SELECT * FRO..." />
+                <marker date="1422861655181" expanded="true" signature="2453:2495" placeholder="SELECT * FRO..trends_all..." />
+                <marker date="1422861655181" expanded="true" signature="2558:2606" placeholder="SELECT * FRO..trends_similar..." />
               </folding>
             </state>
           </provider>
@@ -710,8 +113,8 @@
         <option value="$PROJECT_DIR$/templates/js/devoops.js" />
         <option value="$PROJECT_DIR$/templates/charts.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
-        <option value="$PROJECT_DIR$/Dashboard/views.py" />
         <option value="$PROJECT_DIR$/templates/Common.html" />
+        <option value="$PROJECT_DIR$/Dashboard/views.py" />
       </list>
     </option>
   </component>
@@ -728,7 +131,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -747,7 +150,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -776,12 +178,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DailymotionApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DailymotionApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="DailymotionApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -799,9 +216,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\DailymotionApp\templates" />
-      <recent name="E:\DailymotionApp\templates\css" />
       <recent name="E:\DailymotionApp\templates\js" />
+      <recent name="E:\DailymotionApp\templates\css" />
+      <recent name="E:\DailymotionApp\templates" />
       <recent name="E:\DailymotionApp\static\css" />
       <recent name="E:\DailymotionApp\static\js" />
     </key>
@@ -1035,10 +452,14 @@
       <created>1420600561041</created>
       <updated>1420600561041</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Dailymotion App Updated Changes">
+      <created>1422263657289</created>
+      <updated>1422263657289</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="TodoView" selected-index="4">
+  <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
       <are-packages-shown value="false" />
       <are-modules-shown value="false" />
@@ -1060,18 +481,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32300162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32789558" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3219512" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32682925" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10951661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20166163" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3213703" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23327896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23252033" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1129,65 +550,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Dashboard/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <marker date="1422262970290" expanded="true" signature="612:636" placeholder="SELECT * FRO..trends_all..." />
-            <marker date="1422262970290" expanded="true" signature="680:701" placeholder="SELECT * FRO..trends_similar..." />
-            <marker date="1422262970290" expanded="true" signature="680:705" placeholder="SELECT * FRO..trends_same..." />
-            <marker date="1422262970290" expanded="true" signature="1422:1487" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="1610:1701" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="1825:1916" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="2038:2129" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="2453:2495" placeholder="SELECT * FRO..trends_all..." />
-            <marker date="1422262970290" expanded="true" signature="2558:2606" placeholder="SELECT * FRO..trends_similar..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="4794">
-          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dashboard/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailymotionApp/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1037" max-vertical-offset="1700">
-          <caret line="61" column="31" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5185">
-          <caret line="268" column="34" selection-start-line="268" selection-start-column="34" selection-end-line="268" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dashboard/views.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
           <caret line="6" column="100" selection-start-line="6" selection-start-column="100" selection-end-line="6" selection-end-column="100" />
           <folding>
-            <marker date="1422262970290" expanded="true" signature="612:636" placeholder="SELECT * FRO..trends_all..." />
-            <marker date="1422262970290" expanded="true" signature="680:701" placeholder="SELECT * FRO..trends_similar..." />
-            <marker date="1422262970290" expanded="true" signature="680:705" placeholder="SELECT * FRO..trends_same..." />
-            <marker date="1422262970290" expanded="true" signature="1422:1487" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="1610:1701" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="1825:1916" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="2038:2129" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="2453:2495" placeholder="SELECT * FRO..trends_all..." />
-            <marker date="1422262970290" expanded="true" signature="2558:2606" placeholder="SELECT * FRO..trends_similar..." />
+            <marker date="1422861655181" expanded="true" signature="612:636" placeholder="SELECT * FRO..trends_all..." />
+            <marker date="1422861655181" expanded="true" signature="680:701" placeholder="SELECT * FRO..trends_similar..." />
+            <marker date="1422861655181" expanded="true" signature="680:705" placeholder="SELECT * FRO..trends_same..." />
+            <marker date="1422861655181" expanded="true" signature="1422:1487" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="1610:1701" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="1825:1916" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="2038:2129" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="2453:2495" placeholder="SELECT * FRO..trends_all..." />
+            <marker date="1422861655181" expanded="true" signature="2558:2606" placeholder="SELECT * FRO..trends_similar..." />
           </folding>
         </state>
       </provider>
@@ -1225,15 +599,15 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
           <folding>
-            <marker date="1422262970290" expanded="true" signature="612:636" placeholder="SELECT * FRO..trends_all..." />
-            <marker date="1422262970290" expanded="true" signature="680:701" placeholder="SELECT * FRO..trends_similar..." />
-            <marker date="1422262970290" expanded="true" signature="680:705" placeholder="SELECT * FRO..trends_same..." />
-            <marker date="1422262970290" expanded="true" signature="1422:1487" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="1610:1701" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="1825:1916" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="2038:2129" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="2453:2495" placeholder="SELECT * FRO..trends_all..." />
-            <marker date="1422262970290" expanded="true" signature="2558:2606" placeholder="SELECT * FRO..trends_similar..." />
+            <marker date="1422861655181" expanded="true" signature="612:636" placeholder="SELECT * FRO..trends_all..." />
+            <marker date="1422861655181" expanded="true" signature="680:701" placeholder="SELECT * FRO..trends_similar..." />
+            <marker date="1422861655181" expanded="true" signature="680:705" placeholder="SELECT * FRO..trends_same..." />
+            <marker date="1422861655181" expanded="true" signature="1422:1487" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="1610:1701" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="1825:1916" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="2038:2129" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="2453:2495" placeholder="SELECT * FRO..trends_all..." />
+            <marker date="1422861655181" expanded="true" signature="2558:2606" placeholder="SELECT * FRO..trends_similar..." />
           </folding>
         </state>
       </provider>
@@ -1494,41 +868,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2414">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/css/bootstrap1.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/css/dataTables.bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5423">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/js/jquery-1.10.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/js/jquery.dataTables.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2720">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/js/dataTables.bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3213">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.3076925" vertical-offset="3152" max-vertical-offset="3740">
-          <caret line="192" column="46" selection-start-line="192" selection-start-column="46" selection-end-line="192" selection-end-column="46" />
+        <state vertical-scroll-proportion="-0.65384614" vertical-offset="1785" max-vertical-offset="3723">
+          <caret line="106" column="20" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Common.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5769231" vertical-offset="1531" max-vertical-offset="2550">
+          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dashboard/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1448" max-vertical-offset="2142">
-          <caret line="110" column="41" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.68591225" vertical-offset="1318" max-vertical-offset="1819">
+          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
           <folding>
-            <marker date="1422262970290" expanded="true" signature="612:636" placeholder="SELECT * FRO..trends_all..." />
-            <marker date="1422262970290" expanded="true" signature="680:701" placeholder="SELECT * FRO..trends_similar..." />
-            <marker date="1422262970290" expanded="true" signature="680:705" placeholder="SELECT * FRO..trends_same..." />
-            <marker date="1422262970290" expanded="true" signature="1422:1487" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="1610:1701" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="1825:1916" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="2038:2129" placeholder="SELECT * FRO..." />
-            <marker date="1422262970290" expanded="true" signature="2453:2495" placeholder="SELECT * FRO..trends_all..." />
-            <marker date="1422262970290" expanded="true" signature="2558:2606" placeholder="SELECT * FRO..trends_similar..." />
+            <marker date="1422861655181" expanded="true" signature="612:636" placeholder="SELECT * FRO..trends_all..." />
+            <marker date="1422861655181" expanded="true" signature="680:701" placeholder="SELECT * FRO..trends_similar..." />
+            <marker date="1422861655181" expanded="true" signature="680:705" placeholder="SELECT * FRO..trends_same..." />
+            <marker date="1422861655181" expanded="true" signature="1422:1487" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="1610:1701" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="1825:1916" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="2038:2129" placeholder="SELECT * FRO..." />
+            <marker date="1422861655181" expanded="true" signature="2453:2495" placeholder="SELECT * FRO..trends_all..." />
+            <marker date="1422861655181" expanded="true" signature="2558:2606" placeholder="SELECT * FRO..trends_similar..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/Common.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0031056" vertical-offset="1649" max-vertical-offset="2584">
-          <caret line="116" column="6" selection-start-line="116" selection-start-column="6" selection-end-line="116" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
