@@ -5,24 +5,6 @@ import MySQLdb
 import random
 import urllib
 # Create your views here.
-
-trend_name=[]
-tech_id=[]
-trend_desc=[]
-trend_lang=[]
-trend_topic=[]
-trend_source=[]
-trend_external=[]
-trend_related=[]
-trend_region=[]
-trend_age=[]
-trend_temporality=[]
-trend_score=[]
-trend_upid = []
-trend_update = []
-trend_create=[]
-trend_date=[]
-trend_sex=[]
 test_today=[]
 test_next=[]
 test_two=[]
@@ -36,24 +18,6 @@ cursor.execute("SELECT * FROM trends_same")
 similarity = cursor.fetchall()
 
 def home(request):
-    for data in rows:
-        tech_id.append(data[0])
-        trend_name.append(data[1])
-        trend_desc.append(data[2])
-        trend_lang.append(data[3])
-        trend_date.append(data[4])
-        trend_create.append(data[5])
-        trend_update.append(data[6])
-        trend_upid.append(data[7])
-        trend_score.append(data[8])
-        trend_temporality.append(data[9])
-        trend_sex.append(data[10])
-        trend_age.append(data[11])
-        trend_region.append(data[12])
-        trend_related.append(data[13])
-        trend_external.append(data[14])
-        trend_source.append(data[15])
-        trend_topic.append(data[16])
     cursor.execute("SELECT * FROM `trends_all` WHERE DATE(`Created_DATE`) = CURDATE()")
     today = cursor.fetchall()
     for today_date in today:
@@ -80,17 +44,51 @@ def home(request):
     cursor.execute("SELECT * FROM trends_all WHERE Trend_Name=%s",(test[0]))
     new = cursor.fetchone()
     cursor.execute("SELECT * FROM trends_similar WHERE TECHNICAL_ID=%s",(new[0]))
-    similars = cursor.fetchall()
+    simil = cursor.fetchall()
     #content = {trend_name}
-    content = Context({"Data": new,"Similar": similars,'Tech_ID': tech_id,'trends_today': test,'trends_next': test1,'trends_two': test2,'trends_three': test3, "trend_desc":trend_desc,"trend_lang": trend_lang,"Created_Date": trend_create,"Updated_Date": trend_update,"trend_score": trend_score,"trend_temporality": trend_temporality,"trend_Sex": trend_sex,"trend_age": trend_age,"trend_region": trend_region,"trend_related": trend_related,"trend_external": trend_external,"trend_source": trend_source,"trend_topic": trend_topic})
+    content = Context({"Data": new,"Similar": simil,'trends_today': test,'trends_next': test1,'trends_two': test2,'trends_three': test3})
     return render(request,template,content)
 
-
-
-
 def common(request):
-    content = Context({"Data": rows})
+    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'Common'")
+    similarity = cursor.fetchall()
+    content = Context({"Data": similarity})
     template = "common.html"
+    return render(request,template,content)
+
+def news(request):
+    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'NewsPol'")
+    similarity = cursor.fetchall()
+    content = Context({"Data": similarity})
+    template = "News.html"
+    return render(request,template,content)
+
+def sports(request):
+    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'Sports'")
+    similarity = cursor.fetchall()
+    content = Context({"Data": similarity})
+    template = "Sports.html"
+    return render(request,template,content)
+
+def movies(request):
+    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'Movies'")
+    similarity = cursor.fetchall()
+    content = Context({"Data": similarity})
+    template = "Movies.html"
+    return render(request,template,content)
+
+def celeb(request):
+    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'CELEB'")
+    similarity = cursor.fetchall()
+    content = Context({"Data": similarity})
+    template = "Celeb.html"
+    return render(request,template,content)
+
+def comedy(request):
+    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'TVCOM'")
+    similarity = cursor.fetchall()
+    content = Context({"Data": similarity})
+    template = "Comedy.html"
     return render(request,template,content)
 
 def charts(request):
