@@ -4,12 +4,6 @@ Created on Mon Dec 29 14:00:06 2014
 
 @author: NUS-ISS TEAM
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 24 11:37:11 2014
-@author: HP
-"""
 import MySQLdb
 import twitter
 import json
@@ -78,11 +72,12 @@ for trend in world_trends[0]['trends']:
         status_names.append([name['user']['name'] for name in stats])
     if ' ' in str(name['user']['name']):
         stats = name['user']['name'].split()
-        if stats[1]:
-            take = stats[0]
-            take1 = stats[1]
-            data1 = json.load(urllib2.urlopen("https://gender-api.com/get?name="+str(take)+"&key=AXBxyGlwqpuzMSeuvK"))
-        else:
+        try:
+            if stats[1]:
+                take = stats[0]
+                take1 = stats[1]
+                data1 = json.load(urllib2.urlopen("https://gender-api.com/get?name="+str(take)+"&key=AXBxyGlwqpuzMSeuvK"))
+        except:
             take = stats[0]
             data1 = json.load(urllib2.urlopen("https://gender-api.com/get?name="+str(take)+"&key=AXBxyGlwqpuzMSeuvK"))
         if data1["gender"] == "unknown":
