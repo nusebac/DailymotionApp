@@ -39,53 +39,53 @@ def home(request):
     template = "index.html"
     test = random.sample(test_today, 10)
     test1 = random.sample(test_next, 10)
-    test2 = random.sample(test_two, 10)
+    #test2 = random.sample(test_two, 10)
     test3 = random.sample(test_three, 10)
     cursor.execute("SELECT * FROM trends_all WHERE Trend_Name=%s",(test[0]))
     new = cursor.fetchone()
     cursor.execute("SELECT * FROM trends_similar WHERE TECHNICAL_ID=%s",(new[0]))
     simil = cursor.fetchall()
     #content = {trend_name}
-    content = Context({"Data": new,"Similar": simil,'trends_today': test,'trends_next': test1,'trends_two': test2,'trends_three': test3})
+    content = Context({"Data": new,"Similar": simil,'trends_today': test,'trends_next': test1,'trends_two': test3,'trends_three': test3})
     return render(request,template,content)
 
 def common(request):
-    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'Common'")
+    cursor.execute("SELECT * FROM trends_all")
     similarity = cursor.fetchall()
     content = Context({"Data": similarity})
     template = "common.html"
     return render(request,template,content)
 
 def news(request):
-    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'NewsPol'")
+    cursor.execute("SELECT * FROM trends_all WHERE trend_topic = 'NewsPol'")
     similarity = cursor.fetchall()
     content = Context({"Data": similarity})
     template = "News.html"
     return render(request,template,content)
 
 def sports(request):
-    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'Sports'")
+    cursor.execute("SELECT * FROM trends_all WHERE trend_topic = 'Sports'")
     similarity = cursor.fetchall()
     content = Context({"Data": similarity})
     template = "Sports.html"
     return render(request,template,content)
 
 def movies(request):
-    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'Movies'")
+    cursor.execute("SELECT * FROM trends_all WHERE trend_topic = 'Movies'")
     similarity = cursor.fetchall()
     content = Context({"Data": similarity})
     template = "Movies.html"
     return render(request,template,content)
 
 def celeb(request):
-    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'CELEB'")
+    cursor.execute("SELECT * FROM trends_all WHERE trend_topic = 'CELEB'")
     similarity = cursor.fetchall()
     content = Context({"Data": similarity})
     template = "Celeb.html"
     return render(request,template,content)
 
 def comedy(request):
-    cursor.execute("SELECT * FROM trends_same WHERE trend_topic = 'TVCOM'")
+    cursor.execute("SELECT * FROM trends_all WHERE trend_topic = 'TVCOM'")
     similarity = cursor.fetchall()
     content = Context({"Data": similarity})
     template = "Comedy.html"
