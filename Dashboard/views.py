@@ -96,6 +96,15 @@ def charts(request):
     template = "charts.html"
     return render(request,template,content)
 
+def France(request):
+    conn = MySQLdb.connect(host = "localhost",user = "NUSISS",passwd = "password",db = "DAILYMOTIONAPP")
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM trends_all WHERE Trend_Region = 'France'")
+    similarity = cursor.fetchall()
+    content = Context({"Data": similarity})
+    template = "France.html"
+    return render(request,template,content)
+
 
 def query(request, value):
     content = Context({"Data": value})

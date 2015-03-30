@@ -7,6 +7,7 @@ urlpatterns = patterns('',
     # Examples:
      url(r'^$', 'Dashboard.views.home', name='home'),
      url(r'^common/', 'Dashboard.views.common', name='common'),
+     url(r'^France/', 'Dashboard.views.France', name='France'),
      url(r'^news/', 'Dashboard.views.news', name='news'),
      url(r'^sports/', 'Dashboard.views.sports', name='sports'),
      url(r'^movies/', 'Dashboard.views.movies', name='movies'),
